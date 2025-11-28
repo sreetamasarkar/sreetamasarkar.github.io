@@ -23,13 +23,13 @@
     ]
   },
   "work": [
-    {
-      "name": "University of Southern California",
-      "position": "Graduate Research Assistant",
+      {
+      "name": "Samsung Research America",
+      "position": "Research Scientist Intern",
       "url": "https://example.com",
-      "startDate": "2022-08-01",
-      "endDate": "2027-05-01",
-      "summary": ""
+      "startDate": "2025-05-19",
+      "endDate": "2025-08-22",
+      "summary": "Improving Efficiency in Vision Language Models using Layer Skipping"
       // "highlights": ["Relativity"]
     },
     {
@@ -40,6 +40,15 @@
       "endDate": "2024-07-01",
       "summary": "",
       "highlights": ["EE354L: Introduction to Digital Circuits"]
+    },
+    {
+      "name": "University of Southern California",
+      "position": "Graduate Research Assistant",
+      "url": "https://example.com",
+      "startDate": "2022-08-01",
+      "endDate": "2027-05-01",
+      "summary": "Energy-efficiency and Trustworthiness in Multimodal Models"
+      // "highlights": ["Relativity"]
     }
   ],
   "education": [

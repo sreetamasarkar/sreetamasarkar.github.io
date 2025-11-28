@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 5
 cv_pdf: assets/pdf/2025_09_CV_Sreetama_Sarkar.pdf # you can also use external links here
 description: 
