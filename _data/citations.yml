@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-16'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -77,6 +77,10 @@ papers:
     citations: 0
     title: Voltage Scaled Low Power DNN Accelerator Design on Reconfigurable Platform. Electronics 2024, 13, 1431
     year: '2024'
+  5G5bBKEAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: 'STAR-UNet: Sinogram Transformation using Attention based Residual U-Net'
+    year: '2025'
   5G5bBKEAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Supplementary Material Adversarial Robust Model Compression using In-Train Pruning
@@ -90,7 +94,7 @@ papers:
     title: Implementation of relay hopper model for reliable communication of IoT devices in LTE environment through D2D link
     year: '2018'
   5G5bBKEAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 11
     title: Criticality Aware Soft Error Mitigation in the Configuration Memory of SRAM based FPGA
     year: '2019'
   5G5bBKEAAAAJ:ufrVoPGSRksC:
