@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-21'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -50,7 +50,7 @@ papers:
     title: Region Masking to Accelerate Video Processing on Neuromorphic Hardware
     year: '2025'
   5G5bBKEAAAAJ:WF5omc3nYNoC:
-    citations: 6
+    citations: 7
     title: Block Selective Reprogramming for On-device Training of Vision Transformers
     year: '2024'
   5G5bBKEAAAAJ:Y0pCki6q_DkC:
