@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-23'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
-    citations: 7
+    citations: 8
     title: Mitigating hallucinations in vision-language models through image-guided head suppression
     year: '2025'
   5G5bBKEAAAAJ:2osOgNQ5qMEC:
@@ -29,6 +29,10 @@ papers:
     citations: 1
     title: Accelerating and Pruning CNNs for Semantic Segmentation on FPGA
     year: '2022'
+  5G5bBKEAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: 'FlashVLM: Exploiting Layer Redundancy via Visual Attention for Efficient Vision-Language Inference'
+    year: '2026'
   5G5bBKEAAAAJ:LkGwnXOMwfcC:
     citations: 2
     title: Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors
