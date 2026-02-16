@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-02-16'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
-    citations: 8
+    citations: 11
     title: Mitigating hallucinations in vision-language models through image-guided head suppression
     year: '2025'
   5G5bBKEAAAAJ:2osOgNQ5qMEC:
-    citations: 24
+    citations: 25
     title: Adversarial Robust Model Compression Using In-Train Pruning
     year: '2021'
   5G5bBKEAAAAJ:3fE2CSJIrl8C:
@@ -34,7 +34,7 @@ papers:
     title: 'FlashVLM: Exploiting Layer Redundancy via Visual Attention for Efficient Vision-Language Inference'
     year: '2026'
   5G5bBKEAAAAJ:LkGwnXOMwfcC:
-    citations: 2
+    citations: 3
     title: Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors
     year: '2024'
   5G5bBKEAAAAJ:MXK_kJrjxJIC:
@@ -46,7 +46,7 @@ papers:
     title: 'FixPix: Fixing Bad Pixels using Deep Learning'
     year: '2024'
   5G5bBKEAAAAJ:UeHWp8X0CEIC:
-    citations: 15
+    citations: 16
     title: Accelerating and pruning CNNs for semantic segmentation on FPGA
     year: '2022'
   5G5bBKEAAAAJ:UebtZRa9Y70C:
@@ -66,7 +66,7 @@ papers:
     title: Linearizing Models for Efficient yet Robust Private Inference
     year: '2024'
   5G5bBKEAAAAJ:_FxGoFyzp5QC:
-    citations: 10
+    citations: 11
     title: 'MaskVD: Region masking for efficient video object detection'
     year: '2025'
   5G5bBKEAAAAJ:d1gkVwhDpl0C:
