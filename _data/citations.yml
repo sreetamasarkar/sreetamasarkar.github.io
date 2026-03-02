@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-02'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -42,7 +42,7 @@ papers:
     title: 'HIVTP: A Training-Free Method to Improve VLMs Efficiency via Hierarchical Visual Token Pruning Using Middle-Layer-Based Importance Score'
     year: '2025'
   5G5bBKEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: 'FixPix: Fixing Bad Pixels using Deep Learning'
     year: '2024'
   5G5bBKEAAAAJ:UeHWp8X0CEIC:
