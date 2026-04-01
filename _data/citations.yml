@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-01'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
-    citations: 11
+    citations: 12
     title: Mitigating hallucinations in vision-language models through image-guided head suppression
     year: '2025'
   5G5bBKEAAAAJ:2osOgNQ5qMEC:
@@ -58,7 +58,7 @@ papers:
     title: Block Selective Reprogramming for On-device Training of Vision Transformers
     year: '2024'
   5G5bBKEAAAAJ:Y0pCki6q_DkC:
-    citations: 9
+    citations: 10
     title: Technology-circuit-algorithm tri-design for processing-in-pixel-in-memory (p2m)
     year: '2023'
   5G5bBKEAAAAJ:YsMSGLbcyi4C:
