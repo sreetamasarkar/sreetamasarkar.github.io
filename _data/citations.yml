@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-03'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
     citations: 12
@@ -66,7 +66,7 @@ papers:
     title: Linearizing Models for Efficient yet Robust Private Inference
     year: '2024'
   5G5bBKEAAAAJ:_FxGoFyzp5QC:
-    citations: 11
+    citations: 12
     title: 'MaskVD: Region masking for efficient video object detection'
     year: '2025'
   5G5bBKEAAAAJ:d1gkVwhDpl0C:
