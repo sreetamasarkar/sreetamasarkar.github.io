@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-15'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
     citations: 16
     title: Mitigating hallucinations in vision-language models through image-guided head suppression
     year: '2025'
   5G5bBKEAAAAJ:2osOgNQ5qMEC:
-    citations: 25
+    citations: 26
     title: Adversarial Robust Model Compression Using In-Train Pruning
     year: '2021'
   5G5bBKEAAAAJ:3fE2CSJIrl8C:
