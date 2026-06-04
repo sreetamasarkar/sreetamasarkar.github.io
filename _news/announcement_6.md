@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the Annenberg Endowed Graduate Fellowship 2024-2025 at USC! 
+🏆 Awarded the Annenberg Endowed Graduate Fellowship 2024-2025 at USC! 
