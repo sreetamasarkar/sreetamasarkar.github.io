@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-24'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
-    citations: 20
+    citations: 21
     title: Mitigating hallucinations in vision-language models through image-guided head suppression
     year: '2025'
   5G5bBKEAAAAJ:2osOgNQ5qMEC:
@@ -12,13 +12,13 @@ papers:
   5G5bBKEAAAAJ:3fE2CSJIrl8C:
     citations: 1
     title: 'RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning'
-    year: '2025'
+    year: '2026'
   5G5bBKEAAAAJ:5nxA0vEk-isC:
     citations: 2
     title: 'OASIS: Optimized Lightweight Autoencoder System for Distributed In-Sensor computing'
     year: '2025'
   5G5bBKEAAAAJ:8k81kl-MbHgC:
-    citations: 1
+    citations: 2
     title: 'Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics'
     year: '2025'
   5G5bBKEAAAAJ:9yKSN-GCB0IC:
@@ -54,7 +54,7 @@ papers:
     title: Region Masking to Accelerate Video Processing on Neuromorphic Hardware
     year: '2025'
   5G5bBKEAAAAJ:WF5omc3nYNoC:
-    citations: 9
+    citations: 11
     title: Block Selective Reprogramming for On-device Training of Vision Transformers
     year: '2024'
   5G5bBKEAAAAJ:Y0pCki6q_DkC:
@@ -65,6 +65,10 @@ papers:
     citations: 0
     title: Linearizing Models for Efficient yet Robust Private Inference
     year: '2024'
+  5G5bBKEAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: 'MOSAIC: Efficient Mixture-of-Agent Scheduling via Adaptive Aggregation and Inference Concurrency'
+    year: '2026'
   5G5bBKEAAAAJ:_FxGoFyzp5QC:
     citations: 16
     title: 'MaskVD: Region masking for efficient video object detection'
