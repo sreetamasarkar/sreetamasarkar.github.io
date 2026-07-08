@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-08'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
-    citations: 21
+    citations: 24
     title: Mitigating hallucinations in vision-language models through image-guided head suppression
     year: '2025'
   5G5bBKEAAAAJ:2osOgNQ5qMEC:
@@ -42,11 +42,11 @@ papers:
     title: 'HIVTP: A Training-Free Method to Improve VLMs Efficiency via Hierarchical Visual Token Pruning Using Middle-Layer-Based Importance Score'
     year: '2025'
   5G5bBKEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 2
+    citations: 3
     title: 'FixPix: Fixing Bad Pixels using Deep Learning'
     year: '2024'
   5G5bBKEAAAAJ:UeHWp8X0CEIC:
-    citations: 18
+    citations: 19
     title: Accelerating and pruning CNNs for semantic segmentation on FPGA
     year: '2022'
   5G5bBKEAAAAJ:UebtZRa9Y70C:
@@ -70,7 +70,7 @@ papers:
     title: 'MOSAIC: Efficient Mixture-of-Agent Scheduling via Adaptive Aggregation and Inference Concurrency'
     year: '2026'
   5G5bBKEAAAAJ:_FxGoFyzp5QC:
-    citations: 16
+    citations: 18
     title: 'MaskVD: Region masking for efficient video object detection'
     year: '2025'
   5G5bBKEAAAAJ:d1gkVwhDpl0C:
@@ -78,7 +78,7 @@ papers:
     title: Performance of different power control schemes for a hybrid LTE system with channel impairment
     year: '2017'
   5G5bBKEAAAAJ:eQOLeE2rZwMC:
-    citations: 0
+    citations: 1
     title: 'RLNet: Robust Linearized Networks for Efficient Private Inference'
     year: '2024'
   5G5bBKEAAAAJ:hqOjcs7Dif8C:
