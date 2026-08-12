@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-12'
 papers:
   5G5bBKEAAAAJ:0EnyYjriUFMC:
-    citations: 24
+    citations: 25
     title: Mitigating hallucinations in vision-language models through image-guided head suppression
     year: '2025'
   5G5bBKEAAAAJ:2osOgNQ5qMEC:
@@ -10,7 +10,7 @@ papers:
     title: Adversarial Robust Model Compression Using In-Train Pruning
     year: '2021'
   5G5bBKEAAAAJ:3fE2CSJIrl8C:
-    citations: 1
+    citations: 2
     title: 'RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning'
     year: '2026'
   5G5bBKEAAAAJ:5nxA0vEk-isC:
@@ -18,7 +18,7 @@ papers:
     title: 'OASIS: Optimized Lightweight Autoencoder System for Distributed In-Sensor computing'
     year: '2025'
   5G5bBKEAAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: 'Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics'
     year: '2025'
   5G5bBKEAAAAJ:9yKSN-GCB0IC:
@@ -30,11 +30,11 @@ papers:
     title: Accelerating and Pruning CNNs for Semantic Segmentation on FPGA
     year: '2022'
   5G5bBKEAAAAJ:KlAtU1dfN6UC:
-    citations: 0
+    citations: 1
     title: 'FlashVLM: Exploiting Layer Redundancy via Visual Attention for Efficient Vision-Language Inference'
     year: '2026'
   5G5bBKEAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 4
     title: Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors
     year: '2024'
   5G5bBKEAAAAJ:MXK_kJrjxJIC:
@@ -42,11 +42,11 @@ papers:
     title: 'HIVTP: A Training-Free Method to Improve VLMs Efficiency via Hierarchical Visual Token Pruning Using Middle-Layer-Based Importance Score'
     year: '2025'
   5G5bBKEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 6
     title: 'FixPix: Fixing Bad Pixels using Deep Learning'
     year: '2024'
   5G5bBKEAAAAJ:UeHWp8X0CEIC:
-    citations: 19
+    citations: 18
     title: Accelerating and pruning CNNs for semantic segmentation on FPGA
     year: '2022'
   5G5bBKEAAAAJ:UebtZRa9Y70C:
@@ -54,7 +54,7 @@ papers:
     title: Region Masking to Accelerate Video Processing on Neuromorphic Hardware
     year: '2025'
   5G5bBKEAAAAJ:WF5omc3nYNoC:
-    citations: 11
+    citations: 10
     title: Block Selective Reprogramming for On-device Training of Vision Transformers
     year: '2024'
   5G5bBKEAAAAJ:Y0pCki6q_DkC:
@@ -102,7 +102,7 @@ papers:
     title: Implementation of relay hopper model for reliable communication of IoT devices in LTE environment through D2D link
     year: '2018'
   5G5bBKEAAAAJ:u5HHmVD_uO8C:
-    citations: 12
+    citations: 11
     title: Criticality Aware Soft Error Mitigation in the Configuration Memory of SRAM based FPGA
     year: '2019'
   5G5bBKEAAAAJ:ufrVoPGSRksC:
