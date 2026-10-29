@@ -433,6 +433,12 @@ ninja.data = [{
           section: "News",},{id: "news-joined-dolby-laboratories-as-a-phd-research-intern-in-the-multimodal-perception-lab",
           title: 'Joined Dolby Laboratories as a PhD Research Intern in the Multimodal Perception Lab....',
           description: "",
+          section: "News",},{id: "news-blessed-to-participate-in-the-13th-heidelberg-laureate-forum-a-memorable-week-in-heidelberg-connecting-with-laureates-and-hearing-their-diverse-perspectives-on-ai-and-the-future",
+          title: 'Blessed to participate in the 13th Heidelberg Laureate Forum! A memorable week in...',
+          description: "",
+          section: "News",},{id: "news-our-paper-rarecache-is-now-on-arxiv-we-explore-whether-a-large-model-can-reuse-a-small-model-s-kv-cache-by-rereading-only-the-tokens-that-matter",
+          title: 'Our paper RaReCache is now on arXiv! We explore whether a large model...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -483,7 +489,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/2025_09_CV_Sreetama_Sarkar.pdf", "_blank");
+          window.open("/assets/pdf/2026_10_CV_Sreetama_Sarkar.pdf", "_blank");
         },
       },{
         id: 'social-email',
