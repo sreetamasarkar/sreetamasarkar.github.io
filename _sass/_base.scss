@@ -591,6 +591,25 @@ footer.sticky-bottom {
   }
 }
 
+.mentorship-box {
+  clear: both;
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 0.5rem;
+  background-color: var(--global-card-bg-color);
+
+  h2 {
+    margin: 0 0 0.75rem;
+    font-size: 1.25rem;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
 .post-title {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;

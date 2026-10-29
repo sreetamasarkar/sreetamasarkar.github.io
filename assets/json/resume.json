@@ -47,8 +47,11 @@
       "url": "https://example.com",
       "startDate": "2022-08-01",
       "endDate": "2027-05-01",
-      "summary": "Energy-efficiency and Trustworthiness in Multimodal Models"
-      // "highlights": ["Relativity"]
+      "summary": "Energy-efficiency and Trustworthiness in Multimodal Models",
+      "highlights": [
+        "Developed RaReCache to enable smaller language models to prefill for larger models through cross-model KV cache reuse and selective token recomputation, achieving up to 3.04x prefill speedup.",
+        "Developed SPIN, an inference-time attention-head suppression method that improves visual grounding in vision-language models, achieving up to a 2.7x reduction in hallucination scores without significant compute or latency overhead."
+      ]
     }
   ],
   "education": [

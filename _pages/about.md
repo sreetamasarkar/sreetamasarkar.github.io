@@ -26,14 +26,17 @@ announcements:
 #  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #  limit: 3 # leave blank to include all the blog posts
 ---
-I am a 4<sup>th</sup> year PhD student at [EESSC](https://sites.usc.edu/eessc/) lab in the [University of Southern California](https://minghsiehece.usc.edu/), advised by [Prof. Peter Beerel](https://viterbi.usc.edu/directory/faculty/Beerel/Peter). My research interests involve **energy efficiency and trustworthiness in multi-modal models**. My recent works include efficient [fine-tuning](https://arxiv.org/pdf/2405.10951) and [inference](https://arxiv.org/pdf/2407.12067) of Vision Transformer (ViT), Vision Language Models (VLMs) and <a href="https://arxiv.org/pdf/2505.16411">hallucination mitigation</a> in VLMs. 
+I am a 5<sup>th</sup> year PhD student in the [EESSC lab](https://sites.usc.edu/eessc/) at the [University of Southern California](https://minghsiehece.usc.edu/), advised by [Prof. Peter Beerel](https://viterbi.usc.edu/directory/faculty/Beerel/Peter).
 
-Before this, I completed Master of Science in Communication Engineering from the [Technical University of Munich](https://www.tum.de/en/). I conducted my Master's thesis on *Robustness aware Pruning methods for Convolutional Neural Networks* in the Autonomous Driving Group at [BMW](https://www.bmwgroup.com/en.html). I completed my BTech with a gold medal in Electronics and Communications Engineering from the National Institute of Technology, Durgapur, India.
+My research focuses on **efficient and trustworthy AI systems**. I develop methods that reduce computation and improve reliability while preserving model quality. My work spans two main directions:
 
-In my free time, I enjoy cooking as it helps me unwind, and I love to try out different cuisines. I also enjoy swimming, biking and playing badminton. My creative pursuits include painting and dancing.
+- **Efficiency:** I focus on improving model efficiency by reducing redundant computations: exploiting spatial and temporal redundancy in videos ([MaskVD](https://arxiv.org/pdf/2407.12067)), pruning visual tokens ([RedVTP](https://arxiv.org/abs/2511.12428)), and skipping redundant layers in vision-language models ([FlashVLM](https://openreview.net/forum?id=dT4ijGCYSs)). Most recently, I worked on [cross-model KV cache reuse](https://arxiv.org/pdf/2610.11358) with selective recomputation for prefill latency reduction.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+- **Trustworthiness:** I investigate why vision-language models hallucinate and design inference-time interventions to improve visual grounding ([SPIN](https://arxiv.org/abs/2505.16411)). Building on this, I aim to explore multimodal model safety by studying how models distinguish task-relevant evidence from instructions embedded in untrusted images, documents, and videos.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I earned my Master of Science in Communication Engineering from the [Technical University of Munich](https://www.tum.de/en/) and conducted my master's thesis on robustness-aware model pruning at [BMW](https://www.bmwgroup.com/en.html). I received my BTech in Electronics and Communications Engineering from the National Institute of Technology, Durgapur, India, with a gold medal.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<section class="mentorship-box" aria-labelledby="mentorship-title">
+  <h2 id="mentorship-title">mentorship</h2>
+  <p>I’m happy to mentor motivated undergraduate and master’s students interested in research on efficient and trustworthy ML systems. If you’re interested, please <a href="mailto:{{ site.data.socials.email | encode_email }}">email me</a> with your CV!</p>
+</section>
